@@ -100,9 +100,9 @@ Food_Production.csv:
 
 2. The distribution of total emissions is right-skewed: most foods emit <10 kg CO₂e/kg, but a small number (beef, cheese, dark chocolate) drive the majority of impact. Focus interventions here.
 
-3. Over half of all food emissions come from farm-level activities. Land use change (21.1%) and animal feed (7.6%) are also major contributors — making agriculture the primary lever for change.
+3. Over half of all food emissions come from farm-level activities. Land use change (21.1%) and animal feed (7.6%) are also major contributors in making agriculture the primary lever for change.
 
-4. Per 100g protein, peas emit just 0.001 kg CO₂e — 72x less than poultry (0.072). Pulses, nuts, and soymilk consistently outperform animal proteins across all metrics. 
+4. Per 100g protein, peas emit just 0.001 kg CO₂e, 72x less than poultry (0.072). Pulses, nuts, and soymilk consistently outperform animal proteins across all metrics. 
 
 5. Beet sugar (0.005), palm oil (0.006), and potatoes (0.013) deliver energy with minimal emissions per 1000 kcal, but should be balanced with nutritional density to avoid empty-calorie diets.
 
